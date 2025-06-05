@@ -14,7 +14,7 @@ celeba-hq dataset from HuggingFace https://huggingface.co/datasets/mattymchen/ce
 
 ## Training samples
 
-![1, 2, 4 steps](https://github.com/anastasiaIvanovski/T2I-shortcut/blob/main/Training%20samples/training_samples.png?raw=true)
+![1, 2, 4 steps](https://github.com/ivanovski-a/T2I-shortcut/blob/main/Training%20samples/training_samples.png?raw=true)
 
-![128 steps](https://github.com/anastasiaIvanovski/T2I-shortcut/blob/main/Training%20samples/training_samples_128.png?raw=true)
+![128 steps](https://github.com/ivanovski-a/T2I-shortcut/blob/main/Training%20samples/training_samples_128.png?raw=true)
 
